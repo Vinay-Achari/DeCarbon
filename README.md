@@ -1,7 +1,7 @@
-# tech_media
+Hackathon
 
-Demo project
-A new Flutter project.
+Decarbon is a carbon tracking app.
+UI only.
 
 ## Getting Started
 
